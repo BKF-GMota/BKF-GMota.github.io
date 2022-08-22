@@ -1,0 +1,82 @@
+body {
+    display: block;
+    font-family: Helvetica, sans-serif;
+    align-items: center;
+    background-color: #fff;
+    justify-content: center;
+    align-items: center;
+    display:flex;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+input[type=text]{ 
+    display: block;
+    text-transform: uppercase;
+    display: block;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid white;
+    border-radius: 4px;
+    box-sizing: border-box;
+    text-align: center;
+  }
+
+.box{
+    display: block;
+    margin-top: 70%;
+    border-radius: 5px;
+    padding: 20px;
+    background-color: rgb(233, 229, 229);
+    }
+
+button[type=submit]{
+    font-family: Helvetica, sans-serif;
+    display: block;
+    color: #fff;
+    margin-left: 10%;
+    background-color: #df6e23;
+    border: 1px solid white;
+    border-radius: 4px;
+    margin-top: 10%;
+    width: 80%;
+    height: 35px;
+    }
+
+.logoBkf{
+    width: 50%;
+    margin-left: 20%;
+    }
+
+button:hover{
+    background-color: green;
+    }
+
+.framesBox{
+    background-color: #fff;
+    width: 100%;
+    }
+
+.iframe {
+  background-color: rgb(233, 229, 229);
+  width: 100%;
+  height: 300px;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+.confirm{
+  margin-bottom: 5% ;
+  font-family: Helvetica, sans-serif;
+  display: block;
+  color: #fff;
+  background-color: #df6e23;
+  border: 1px solid white;
+  border-radius: 4px;
+  width: 80%;
+  height: 35px;
+  }
