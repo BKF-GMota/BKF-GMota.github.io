@@ -1,9 +1,8 @@
-body {
+.index {
     display: block;
     font-family: Helvetica, sans-serif;
     align-items: center;
-    background-color: #fff;
-    justify-content: center;
+    background-image: linear-gradient(140deg, #ec8a34 0, #e67c2c 25%, #df6d22 50%, #d75d19 75%, #d14e13 100%);
     align-items: center;
     display:flex;
     background-attachment: fixed;
