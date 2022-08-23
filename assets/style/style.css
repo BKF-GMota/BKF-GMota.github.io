@@ -55,6 +55,7 @@ button:hover{
     }
 
 .framesBox{
+    align-items: center;
     background-color: #fff;
     width: 100%;
     }
@@ -70,7 +71,7 @@ button:hover{
     }
 
 .confirm{
-    margin-bottom: 5% ;
+    margin-bottom: 10% ;
     font-family: Helvetica, sans-serif;
     display: block;
     color: #fff;
