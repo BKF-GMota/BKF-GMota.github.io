@@ -24,7 +24,7 @@ input[type=text]{
   }
 
 .box{
-  text-align: center;
+    text-align: center;
     align-items: center;
     display: block;
     margin-top: 70%;
@@ -48,7 +48,6 @@ button[type=submit]{
 
 .logoBkf{
     width: 50%;
-    margin-left: 20%;
     }
 
 button:hover{
